@@ -1,6 +1,3 @@
-# crud
-使用php實作crud功能
-
 # PHP-CRUD
 
 資料庫：project

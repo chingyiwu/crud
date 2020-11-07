@@ -12,11 +12,11 @@
 資料傳遞格式：(POSTMAN範例)
 
 POST/PUT    :  json
-
+![pic/post-put.png](pic/post-put.png)
 
 
 GET/DELETE : query
-
+![pic/get-delete.png](pic/get-delete.png)
 
 
 目標 : main.php
